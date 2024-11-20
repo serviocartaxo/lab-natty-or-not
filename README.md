@@ -1,4 +1,4 @@
-# Júlia e a Amiguinha Inteligente
+# Júlia e iAmiguinha
 
 ## 📒 Descrição
 Este conto ilustra o uso das IAs Generativas para a educação infantil.
