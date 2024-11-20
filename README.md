@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Júlia e a Amiguinha Inteligente
 
 ## 📒 Descrição
 Este conto ilustra o uso das IAs Generativas para a educação infantil.
