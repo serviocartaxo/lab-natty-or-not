@@ -13,6 +13,7 @@ Utilizando o Microsoft Copilot solicitei que criasse uma história básica com u
 
 ## 🚀 Resultados
 O e-book mostra um conto simples e ilustrativo do uso das IAs Generativas por crianças.
+- [e-Conto](iAmiguinha.pdf)
 
 ## 💭 Reflexão (Opcional)
 É extremamente rápido o processo de criação baseado em uma ideia simples original, com mais tempo, mais dedicação e prompts cada vez mais detalhados os resultados são ilimitados.
