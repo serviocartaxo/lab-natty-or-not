@@ -4,8 +4,8 @@
 Este conto ilustra o uso das IAs Generativas para a educação infantil.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa Microsoft Copilot para a criação do conto;
-IA Generativa Microsoft Copilot para a criação das ilustrações;
+IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com)** para a criação do conto;
+IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com)** para a criação das ilustrações;
 Ferramenta Microsfot Word para edição.
 
 ## 🧐 Processo de Criação
